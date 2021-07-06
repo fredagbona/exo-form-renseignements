@@ -1,0 +1,45 @@
+td{
+    border: 1px solid black;
+    width:480px;
+    margin:5%;
+   padding-left: 10px;
+
+}
+
+table tr{
+    height:7rem;
+    padding:10px;
+}
+
+table th{
+    width:150px;
+    padding-right: 10px;
+}
+button{
+    background-color:#008B8B;
+    padding: 10px;
+    color:#fff;
+    font-size:3rem;
+    position:absolute;
+    margin-top: 300px;
+    display:table;
+    left: 60%;
+    
+}
+button:hover{
+    opacity: 0.5;
+}
+textarea{
+    width:480px;
+    padding-left: 10px;
+    
+}
+.txt{
+    border-width: 0;
+}
+.fr1{
+    border-width: 0;
+}
+span{
+    float: right;
+}
