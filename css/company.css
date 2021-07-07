@@ -1,16 +1,13 @@
- .company tr td div{
+ .company tr td .entrie{
    border: 1px solid black;
    margin: 20px;
    height: 20px;
    margin-left:0;
    border-radius: 2px;
+   width:480px;
     
     
 }
-td{
-    width:480px;
-}
-
 table tr{
     height:7rem;
     padding:10px;
